@@ -1,6 +1,3 @@
-# Gerando Gráficos com Python
-# Lab+ Projetos
-
 import matplotlib.pyplot as plt # Biblioteca para criação de gráficos e dados
 
 dias = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15] # Eixo X com dados de dias
