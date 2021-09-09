@@ -3,17 +3,17 @@ Projetos utilizando Python
 - Esse repositório está em construção!
 - Última Atualização: 09/09/2021 - 15:01
 
-#API - MARVEL
+# API - MARVEL
 hashlib, time e requests
-#GUI_Kivy
+# GUI_Kivy
 kivy.app, kivy.uix.gridlayout, kivy.uix.label import Label, kivy.uix.image import Image, kivy.uix.button import Button, kivy.uix.textinput import TextInput e kivy.core.window
-#GUI
+# GUI
 tkinter 
-#numero
+# numero
 phonenumbers
-#Sprites
+# Sprites
 pygame, pygame.locals e sys 
-#Gerando Gráficos com Python
+# Gerando Gráficos com Python
 matplotlib.pyplot
-#piskel
+# piskel
 pygame, pygame.locals e sys 
