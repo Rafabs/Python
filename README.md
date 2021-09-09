@@ -4,28 +4,28 @@ Projetos utilizando Python
 - Última Atualização: 09/09/2021 - 15:01
 
 # API - MARVEL
-hashlib 
-time 
-requests
+- hashlib 
+- time 
+- requests
 # GUI_Kivy
-kivy.app
-kivy.uix.gridlayout
-kivy.uix.label 
-kivy.uix.image 
-kivy.uix.button 
-kivy.uix.textinput
-kivy.core.window
+- kivy.app
+- kivy.uix.gridlayout
+- kivy.uix.label 
+- kivy.uix.image 
+- kivy.uix.button 
+- kivy.uix.textinput
+- kivy.core.window
 # GUI
-tkinter 
+- tkinter 
 # numero
-phonenumbers
+- phonenumbers
 # Sprites
-pygame
-pygame.locals
-sys 
+- pygame
+- pygame.locals
+- sys 
 # Gerando Gráficos com Python
-matplotlib.pyplot
+- matplotlib.pyplot
 # piskel
-pygame
-pygame.locals 
-sys 
+- pygame
+- pygame.locals 
+- sys 
