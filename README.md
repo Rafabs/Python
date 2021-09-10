@@ -1,7 +1,7 @@
 # Python
 Projetos utilizando Python
 - Esse repositório está em construção!
-- Última Atualização: 10/09/2021 - 09:04
+- Última Atualização: 10/09/2021 - 11:44
 
 # API - MARVEL
 - hashlib 
@@ -40,6 +40,8 @@ Projetos utilizando Python
 - plotly.subplots 
 - make_subplots
 - datetime
+- REST API: https://coronavirus-disasterresponse.hub.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1/api
+- CODE ORIGINAL: https://medium.com/codex/covid-19-analysis-with-python-b898181ea627
 # Covid_19-Ranking dos Estados nos EUA
 - requests 
 - pandas 
@@ -51,11 +53,15 @@ Projetos utilizando Python
 - plotly.subplots 
 - make_subplots
 - datetime
+- REST API: https://coronavirus-disasterresponse.hub.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1/api
+- CODE ORIGINAL: https://medium.com/codex/covid-19-analysis-with-python-b898181ea627
 # Covid_19-Top 10 Países com Casos Confirmados
 - requests 
 - pandas 
 - plotly.express 
 - datetime
+- REST API: https://coronavirus-disasterresponse.hub.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1/api
+- CODE ORIGINAL: https://medium.com/codex/covid-19-analysis-with-python-b898181ea627
 # Covid_19-Top 10 Países com Recuperados
 - requests 
 - pandas 
@@ -67,6 +73,8 @@ Projetos utilizando Python
 - plotly.subplots 
 - make_subplots
 - datetime
+- REST API: https://coronavirus-disasterresponse.hub.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1/api
+- CODE ORIGINAL: https://medium.com/codex/covid-19-analysis-with-python-b898181ea627
 # Covid_19-Top 10 Países com Óbitos Confirmados
 - requests 
 - pandas 
@@ -78,3 +86,5 @@ Projetos utilizando Python
 - plotly.subplots 
 - make_subplots
 - datetime
+- REST API: https://coronavirus-disasterresponse.hub.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1/api
+- CODE ORIGINAL: https://medium.com/codex/covid-19-analysis-with-python-b898181ea627
