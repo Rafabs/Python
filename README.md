@@ -96,18 +96,18 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________
 # LINKS:
-- Covid-19 - Ranking dos Estados no Brasil
+# Covid-19 - Ranking dos Estados no Brasil
 -  |_ REST API: https://coronavirus-disasterresponse.hub.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1/api
--    |_ CODE ORIGINAL: https://medium.com/codex/covid-19-analysis-with-python-b898181ea627
-- Covid_19-Ranking dos Estados nos EUA
+- -   |_ CODE ORIGINAL: https://medium.com/codex/covid-19-analysis-with-python-b898181ea627
+# Covid_19-Ranking dos Estados nos EUA
 -  |_ REST API: https://coronavirus-disasterresponse.hub.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1/api
--    |_ CODE ORIGINAL: https://medium.com/codex/covid-19-analysis-with-python-b898181ea627
-- Covid_19-Top 10 Países com Casos Confirmados
+- -   |_ CODE ORIGINAL: https://medium.com/codex/covid-19-analysis-with-python-b898181ea627
+# Covid_19-Top 10 Países com Casos Confirmados
 - |_ REST API: https://coronavirus-disasterresponse.hub.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1/api
--    |_ CODE ORIGINAL: https://medium.com/codex/covid-19-analysis-with-python-b898181ea627
-- Covid_19-Top 10 Países com Recuperados
+- -   |_ CODE ORIGINAL: https://medium.com/codex/covid-19-analysis-with-python-b898181ea627
+# Covid_19-Top 10 Países com Recuperados
 - |_ REST API: https://coronavirus-disasterresponse.hub.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1/api
--    |_ CODE ORIGINAL: https://medium.com/codex/covid-19-analysis-with-python-b898181ea627
-- Covid_19-Top 10 Países com Óbitos Confirmados
+- -   |_ CODE ORIGINAL: https://medium.com/codex/covid-19-analysis-with-python-b898181ea627
+# Covid_19-Top 10 Países com Óbitos Confirmados
 - |_ REST API: https://coronavirus-disasterresponse.hub.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1/api
--    |_ CODE ORIGINAL: https://medium.com/codex/covid-19-analysis-with-python-b898181ea627
+- -   |_ CODE ORIGINAL: https://medium.com/codex/covid-19-analysis-with-python-b898181ea627
