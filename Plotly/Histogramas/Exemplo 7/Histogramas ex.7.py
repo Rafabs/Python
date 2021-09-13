@@ -2,7 +2,7 @@ import plotly.express as px # Biblioteca usada para criar gráficos
 import plotly.graph_objects as go #
 
 df = px.data.iris() # DataFrame com conjunto de dados de iris
-fig = go.Figure(data=[go.Histogram(x=df['sepal_width'])]) # Cria o objeto com os dados de x e y.
+fig = go.Figure(data=[go.Histogram(x=df['sepal_width'])]) # Cria o objeto na vertical.
 fig.show() # Plota o gráfico
 
 # plotly.express pode criar toda a fígura de uma só vez. Ele usa a graph_objects internamente
