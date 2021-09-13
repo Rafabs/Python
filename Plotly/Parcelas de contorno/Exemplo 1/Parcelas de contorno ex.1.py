@@ -7,7 +7,7 @@ feature_y = np.arange(0, 50, 3) # Valores do eixo Y
 Z = np.cos(X / 2) + np.sin(Y / 4)
 
 fig = go.Figure(data =
-    go.Contour(x = feature_x, y = feature_y, z = Z)) # Cria o objeto com os dados de x e y automaticamente por plotly.
+    go.Contour(x = feature_x, y = feature_y, z = Z)) # Cria o objeto com os dados de x e y.
 fig.show() # Plota o gráfico
 
 # plotly.express pode criar toda a fígura de uma só vez. Ele usa a graph_objects internamente
