@@ -5,13 +5,11 @@ import numpy as np
 df = go.data.tips()
 x = df['total_bill']
 y = df['day']
-
 plot = px.Figure(data=[px.Scatter(
     x=x,
     y=y,
     mode='lines',)
 ])
-
 plot.update_layout( # Criando controles deslizantes
     xaxis=dict(
         rangeselector=dict(
