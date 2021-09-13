@@ -1,14 +1,18 @@
-import phonenumbers
-from phonenumbers import geocoder #Biblioteca para localização
-from phonenumbers import carrier  #Biblioteca para operadora
-
-fone = input('Digite o número de telefone (EX.: 11912345678): ')     #Recebe os dados do usuário
-fone_ajustado = phonenumbers.parse(fone, "BR")                       #Formata os dados do usuário para o padrão do programa
-local = geocoder.description_for_number(fone_ajustado, 'pt-br')      #De acordo com os dados, é dado a localização
-print('Estado:',local)                                               #Exibe o local
-telefone_formulario = phonenumbers.parse(fone, 'BR')                 #Guarda os dados do usuário
-telefone_formatado = phonenumbers.format_number(telefone_formulario, #Formata o número para o padrão do país 'BR': (11) 91234-5678
-                     phonenumbers.PhoneNumberFormat.NATIONAL)        
-print('Telefone:',telefone_formatado)                                #Exibe o número formatado no padrão do país selecionado
-operadora = carrier.name_for_number(fone_ajustado, "pt-br")          #Pelo número ajustado no padrão do programa, é dado a operadora
-print('Operadora:',operadora)                                        #Exibe a operadora
+# Plotly
+É uma biblioteca de código aberto que pode ser usada para visualização de
+dados e compreensão de dados de forma simples e fácil. Plotly suporta vários tipos de plotagens
+como gráficos de linha, scatter plots, histogramas, plotagens de cox, etc. Então, todos vocês
+devem estar se perguntando por que plotly sobre outras ferramentas de visualização ou
+bibliotecas? Aqui está a resposta...
+• O Plotly possui recursos de ferramentas hover* que nos permitem detectar quaisquer outliers ou
+anomalias em um grande número de pontos de dados.
+• É visualmente atraente que pode ser aceito por uma ampla gama de públicos.
+• Ele nos permite a personalização infinita de nossos gráficos que torna nosso gráfico mais
+significativo e compreensível para os outros.
+Este tutorial tem como objetivo fornecer
+lhe a visão sobre o Plotly com a ajuda do enorme
+conjunto de dados explicando o Plotly desde o básico até o avanço e cobrindo todos os gráficos
+usados popularmente.
+*hover = é uma pseudo classe que identifica quando o mouse está sobre um elemento e modifica as
+suas características conforme as atribuições indicadas no código.
+_______________________________________________________________________________________________
