@@ -7,7 +7,6 @@ plot = px.Figure(data=[px.Scatter(
     y=data['tip'],
     mode='markers',)
 ])
-
 plot.update_layout( # Cria o Menu
     updatemenus=[
         dict(
